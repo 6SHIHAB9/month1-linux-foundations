@@ -1,7 +1,7 @@
 # Day 1 — TryHackMe Linux Fundamentals Part 1
 
-✅ Completed: TryHackMe Linux Fundamentals Part 1 room
-✅ Completed: 
+✅ Completed: TryHackMe Linux Fundamentals Part 1 Room
+✅ Completed: Offensive Security Intro Room
 🏅 Badge earned: "cat linux.txt"
 
 ### Commands learned:
