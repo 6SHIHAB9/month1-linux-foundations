@@ -1,10 +1,4 @@
-# Day 1 — TryHackMe Linux Fundamentals Part 1
-
-✅ Completed: TryHackMe Linux Fundamentals Part 1 Room
-
-✅ Completed: Offensive Security Intro Room
-
-🏅 Badge earned: "cat linux.txt"
+# Day 1 —  Linux Fundamentals 
 
 ### Commands learned:
 1. whoami: shows the username of the profile
@@ -23,8 +17,3 @@
 - Linux tracks file permissions (rwx) and ownership
 - The terminal is the fastest way to interact with files
 
-<img width="1353" height="692" alt="Screenshot 2025-09-27 205755" src="https://github.com/user-attachments/assets/275a4111-2781-4802-b293-cd783a4d5cfe" />
-
-<img width="1919" height="505" alt="Screenshot 2025-09-27 215710" src="https://github.com/user-attachments/assets/f97dde68-cb61-4c99-a97f-65bd105fc82a" />
-
-<img width="1919" height="564" alt="Screenshot 2025-09-27 205827" src="https://github.com/user-attachments/assets/fd121eb0-af7d-4e7b-88e6-7fc9ba438b27" />
