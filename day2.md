@@ -1,5 +1,5 @@
-#Day 2 — Linux Fundamentals
-###Commands learned:
+# Day 2 — Linux Fundamentals
+### Commands learned:
 
 history: shows previously executed commands
 
@@ -15,7 +15,7 @@ less: lets you scroll through a file one page at a time
 
 Variables: store values in shell and print them using echo $VARNAME
 
-###Key lessons:
+### Key lessons:
 
 Variables in Linux are temporary containers for data (e.g., NAME=Shihab)
 
